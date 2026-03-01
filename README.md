@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boat-kofi
+- 👋 Hi, I’m Boateng Okyere Kofi
 - 👀 I’m interested in computer science
 - 🌱 I’m currently studying in the university
 - 💞️ I’m looking to collaborate on prorjects
