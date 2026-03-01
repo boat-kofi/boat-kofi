@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boat-kofi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html
+- 👀 I’m interested in computer science
+- 🌱 I’m currently studying in the university
 - 💞️ I’m looking to collaborate on prorjects
 - 📫 How to reach me kb387210@gmail.com
 - 😄 Pronouns: he
